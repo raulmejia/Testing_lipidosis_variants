@@ -1,3 +1,3 @@
 # Testing lipidosis variants
 
-Several test for a the lipidosis variants, but the aim is that this code could be used for another variant sets as well
+Several filters for a variant table (thinked initially for DIL case), but the aim is that this code could be used for another variant sets as well
